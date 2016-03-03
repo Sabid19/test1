@@ -1,9 +1,30 @@
+<<<<<<< HEAD
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
+=======
+# Site settings
+title: Clean Blog
+header-img: img/home-bg.jpg
+email: your-email@yourdomain.com
+copyright_name: Your/Project/Corporate Name
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: "http://sabid19.github.io/test1."
+twitter_username: SBootstrap
+github_username:  sabid19
+facebook_username:  sabidbd
+email_username:  sabidmail@gmail.com
+
+# Build settings
+lsi: false
+safe: true
+incremental: false
+source: test1
+>>>>>>> origin/gh-pages
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll

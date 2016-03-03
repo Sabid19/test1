@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 _config.yml
 _site/*
 *Thumbs.db
 Gemfile.lock
+=======
+_site/
+.sass-cache/
+.jekyll-metadata
+>>>>>>> origin/gh-pages
